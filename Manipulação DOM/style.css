@@ -1,0 +1,17 @@
+.classe1{
+    width: 500px;
+    height: 500px;
+    padding: 15px;
+    border: 5 px solid black;
+}
+
+.classe2{
+    background-color: sandybrown;
+    color: white;
+}
+
+.classe3{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 25px;
+}

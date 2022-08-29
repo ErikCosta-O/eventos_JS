@@ -1,0 +1,19 @@
+.fundoAzul{
+    width: 250px;
+    height: 20px;
+    background-color: rgba(0, 0, 255, 0.493);
+    border: 2px solid black;
+}
+
+.fonteVermelha{
+    color: red;
+}
+
+.fundo{
+    background-color: rgba(0, 0, 255, 0.493);
+}
+
+.fonte{
+    color: red;
+}
+
